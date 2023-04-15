@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 30.00,
+        "id": 1,
+        "title": "Skwinkles",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61tnXWMagfL._AC_SL1200_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 2,
+        "title": "Soda sprite",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71lXRO4sdgL._AC_SX569_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 3,
+        "title": "Soda fresca",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71xpQSZk1oS._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 4,
+        "title": "Cacahuates",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81KEqbPamhL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 5,
+        "title": "chocolate",
+        "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0549/3352/0627/products/OIP_3_50eae609-c390-4209-9aff-defab1c54be6_2048x2048.jpg?v=1673965309" 
+    },
+    {
+        "precio": 25.00,
+        "id": 6,
+        "title": "soda berry",
+        "thumbnailUrl": "https://www.myamericanmarket.com/media/catalog/product/cache/6d4a09ff1db2ecc28ee9c6b265bf55a1/f/a/fanta-berry-soda-355ml-12-fl-oz-1.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 7,
+        "title": "doritos ranch",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71sPs9Z6YLL._AC_SL1000_.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 8,
+        "title": "pulparindo",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61X6qc2x1IL._AC_SL1080_.jpg"
+    },
+    {
+        "precio":20.00,
+        "id": 9,
+        "title": "ruffles",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/613LjFNOwrL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+        "precio": 23.00,
+        "id": 10,
+        "title": "coca cola",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/517QYMw-wCL._AC_SY550_.jpg"
+    },
+    {
+        "precio": 30.00,
+        "id": 11,
+        "title": "palomitas",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81S1kzxjMbL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 145.00,
+        "id": 12,
+        "title": "pelonpeloneta",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71bLdnr0viL._AC_SL1500_.jpg"
+    }
+]
